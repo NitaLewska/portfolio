@@ -1,0 +1,96 @@
+/* Box Model Fix */
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+    margin: 0px;
+}
+
+body{
+    --bgpositionx: calc(47vw - 984px);
+    --bgpositiony: calc(70vh - 984px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url(images/bg-pattern-top.svg) var(--bgpositionx) var(--bgpositiony), url(images/bg-pattern-bottom.svg) 50vw 50vh,  hsl(185, 75%, 39%);;
+    background-repeat: no-repeat;
+
+}
+
+section {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 18px;
+    width: 350px;
+    height: 375px;
+    text-align: center;
+    color:rgb(34, 34, 34);
+    border-radius: 15px;
+    -webkit-box-shadow: 2px 15px 40px 0px rgba(50, 50, 50, 0.38);
+    -moz-box-shadow:    2px 15px 40px 0px rgba(50, 50, 50, 0.38);
+    box-shadow:         2px 15px 40px 0px rgba(50, 50, 50, 0.38);
+}
+
+.section_header{
+    background-image: url(images/bg-pattern-card.svg);
+    background-size: auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height:140px;
+    border-radius: 15px 15px 0 0;
+}
+
+.section_header img{
+    width: 106px;
+    height: 106px;
+    margin-bottom: -53px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.section_main{
+    height: 145px;
+    background-color: white;
+}
+
+.name {
+    padding-top: 75px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.city{
+   color: hsl(0, 0%, 59%);
+   font-size: 14px;
+   margin-top: 10px;
+}
+
+.age{
+    color: hsl(0, 0%, 59%);
+    font-weight: 500;
+    margin-left: 3px;
+}
+
+.section_footer{
+    background-color: white;
+    border-radius: 0 0 15px 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 90px;
+    border-top: 1px hsl(0, 0%, 83%) solid;
+    font-weight: 700; 
+    padding-top: 5px;
+}
+
+.section_footer span {
+    font-size: 10px;
+    letter-spacing: 2px;
+    color:hsl(0, 0%, 61%)
+}
+
+

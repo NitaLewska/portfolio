@@ -1,0 +1,143 @@
+/* Box Model Fix */
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+    margin: 0px;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    width: 307px;
+    height: 500px;
+    padding: 48px;
+}
+
+.sedans{
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+.luxury{
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+img {
+    width: 64px;
+    height: 40px;
+}
+
+h2 {
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 48px;
+    text-transform: uppercase;
+    color: #F2F2F2;
+    margin-top: 35px;
+}
+
+p {
+    font-family: 'Lexend Deca', sans-serif;  
+    font-size: 15px;
+    line-height: 25px;
+    color: #FFFFFF;
+    opacity: 0.75;  
+    margin-top: 25px;
+}
+
+button {
+    background-color: #F2F2F2;
+    border: none;
+    border-radius: 25px;
+    width: 146px;
+    height: 48px;
+    font-family: 'Lexend Deca', sans-serif;  
+    font-size: 15px;
+    line-height: 25px;
+    margin-top: 83px;
+}
+
+.sedans button{
+    color:#E28625
+}
+
+.suvs button{
+    color:#006971;
+}
+
+.luxury button{
+    color:#004140;
+}
+
+.sedans button:hover{
+    background-color:#E28625;
+    border: 2px solid #F2F2F2;
+    color:#F2F2F2;
+}
+
+.suvs button:hover{
+    background-color:#006971;
+    border: 2px solid #F2F2F2;;
+    color:#F2F2F2;
+}
+
+.luxury button:hover{
+    background-color:#004140;
+    border: 2px solid #F2F2F2;
+    color:#F2F2F2;
+}
+
+.sedans {
+    background-color: #E28625;
+}
+
+.suvs {
+    background-color: #006971;
+}
+
+.luxury {
+    background-color: #004140;
+}
+
+@media screen and (max-width: 920px) {
+
+    main{
+        flex-direction: column;
+    }
+
+    .sedans{
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px;
+    }
+    
+    .luxury{
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 8px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+    }
+    
+}
+
