@@ -1,0 +1,156 @@
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+
+ 
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+    margin: 0px;
+}
+
+body {
+     background-color: #F2F2F2;
+     font-family: 'Poppins', sans-serif;
+     color: #4D4F62;
+}
+
+header {
+    margin: 0 auto;
+    text-align: center;
+    width: 540px;
+    margin-top: 80px;
+    margin-bottom: 32px;
+}
+
+h1 {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 54px;
+    letter-spacing: 0.25px;
+}
+
+header span {
+    font-style: normal;
+    font-weight: 200;
+    font-size: 36px;
+    line-height: 54px;
+    letter-spacing: 0.25px;
+}
+
+header p{
+    font-size: 15px;
+    line-height: 25px;
+    letter-spacing: 0.104167px;
+    opacity: 0.5;
+    margin-top:16px;
+}
+
+main {
+     margin: 0 auto;
+     width: 1110px;
+     display: flex;
+     flex-direction: row;
+     align-items: center;
+     justify-content: space-between;
+
+}
+
+.middle_col {
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     height: 530px;
+     margin-top: 30px;
+     margin-bottom: 30px;
+ }
+
+.card {
+     width: 350px;
+     height: 250px;
+     background: #FFFFFF;
+     box-shadow: 0px 15px 30px -11px rgba(131, 166, 210, 0.5);
+     border-radius: 8px;
+     padding: 32px;
+     display: flex;
+     flex-direction: column;
+}
+
+.card img {
+    height: 64px;
+    width: 64px;
+    align-self:flex-end;
+    margin-top: auto;
+
+}
+
+h2 {
+    font-size: 20px;
+    line-height: 30px;
+}
+.card p{
+    opacity: 0.5;
+    margin-top: 6px;
+    font-size: 13px;
+    line-height: 23px;
+}
+
+#supervisor {
+    border-top: solid 3px #44D3D2;
+}
+
+#team-builder {
+    border-top: solid 3px #EA5454;
+}
+
+
+#karma {
+    border-top: solid 3px #FCAE4A;
+}
+
+
+#calculator {
+    border-top: solid 3px #549EF2;
+}    
+
+.attribution {
+    font-size: 12px;
+    text-align: center; 
+    margin-top: 30px;
+    color: gray;
+}
+.attribution a {
+    color: hsl(228, 16%, 18%); 
+    text-decoration: none;
+}
+
+
+@media (max-width: 1150px) {
+
+    header {
+        width: 350px;
+    }
+
+    header span{
+        font-size: 24px;
+        line-height: 36px;
+    }
+
+    h1 {
+        font-size: 24px;
+        line-height: 36px;  
+    }
+
+    header p{
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+    main {
+        flex-direction: column;
+        width: auto;
+    }
+    
+}

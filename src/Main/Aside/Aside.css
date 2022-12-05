@@ -1,0 +1,20 @@
+aside {
+    display: flex;
+    flex-direction: column;
+    padding-left: 15px;
+    padding-top: 40px;
+}
+
+aside button{
+    width: 80px;
+    height: 80px;
+    margin-bottom: 30px;
+    border-radius: 16px;
+    border: none;
+}
+
+aside button:hover{
+    background: linear-gradient(145deg, #dadada, #ffffff);
+    box-shadow:  20px 20px 60px #cecece,
+             -20px -20px 60px #ffffff;
+}

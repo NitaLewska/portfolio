@@ -1,0 +1,35 @@
+.portfolioCard {
+    height: 250px;
+    width: 250px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    box-shadow: 5px 5px 10px #e1e1e1,
+        -5px -5px 10px #ffffff;
+    border-radius: 7px;
+    transition: transform 1s;
+}
+
+.portfolioCard img {
+    width: 90%;
+    border: 5px double #f2f2f2;
+    border-radius: 5px;
+}
+
+.portfolioCard a {
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+
+.portfolioCard:hover {
+    transition: transform 1s;
+    -webkit-transform: scale3d(1.05, 1.05, 1.05);
+    transform: scale3d(1.05, 1.05, 1.05);
+}
+
+.portfolioCard a:hover {
+    
+}

@@ -1,0 +1,403 @@
+/* Box Model Fix */
+html {
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+    margin: 0px;
+}
+
+body {
+    width: 100%;
+    font-family: 'Red Hat Display', sans-serif;
+    background-color:var(--background);
+    overflow-x: hidden;
+    /*Colors*/
+    --background: #F2F2F2;
+    --green: #4D96A9;
+    --light-purple: #D9B8FF;
+    --dark-purple: #855FB1;
+    --hover-purple: #B18BDD;
+    --hover-green:#71C0D4;
+    --aqua: #8FE3F9;
+    --dark: #28283D;
+    --light: #FAFAFA;
+    --grey: #87879D;
+    --grey-transparent: rgba(135, 135, 157, 0.25);
+}
+
+header{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.groupchat {
+    display: flex;
+    margin-left: -32px;
+    margin-right: -32px;
+    margin-top: 60px;
+    justify-content: space-between;
+    height: 358px;
+    align-items: flex-end;
+    text-align: center;
+    margin-bottom: 110px;
+}
+
+.groupchat img {
+    max-width: 400px;
+    width:30%;
+}
+
+.groupchat img:nth-of-type(1) {
+    align-self:flex-start;
+}
+
+.groupchat img:nth-of-type(2) {
+    align-self:flex-end;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 64px;
+    color: var(--dark);
+}
+
+.groupchat_text {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color:var(--grey);
+    margin-bottom: 5px;
+}
+
+.groupchat_text span {
+    color:var(--aqua);
+}
+
+.groupchat_text p{
+    margin: 32px 0;
+}
+
+button{
+    height: 58px;
+    border-radius: 29px;
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    border: none;
+    color:var(--light);
+}
+
+.groupchat_text_button_download {
+    width:193px;
+    background-color: var(--green);
+}
+
+.groupchat_text_button_download:hover {
+    background-color:var(--hover-green);
+    cursor: pointer;
+}
+
+.groupchat_text_button_info {
+    width: 139px;
+    margin-left: 16px;
+    background-color:var(--dark-purple);
+}
+
+.groupchat_text_button_info:hover {
+    background-color:var(--hover-purple);
+    cursor: pointer;
+}
+
+.modernuse_images {
+    width: 1100px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    margin-top: 64px;
+}
+
+.modernuse_images img{
+    width: 255px;
+    border-radius: 8px;
+}
+
+.modernuse h3 {
+    font-weight: 900;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color:var(--green);
+}
+
+.modernuse h2 {
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 44px;
+    color:var(--dark);
+    margin-top: 16px;
+    margin-bottom: 32px;
+}
+
+.modernuse_text {
+    margin: 0 auto;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    width: 540px;
+    color:var(--grey);
+    margin-top: 80px;
+    margin-bottom: 72px;
+}
+.together::before{
+    content: " ";
+    background-image:url(assets/desktop/image-footer.jpg);
+    background-size:cover;
+    background-position: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    height: 308px;
+    opacity: 0.1;
+}
+
+.together{
+    background-color: var(--green);
+    height: 308px;
+    display: flex;
+    align-items:center;
+    margin-top: -28px;
+}
+
+
+.together_text {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    align-items: center;
+}
+
+.together_text h2{
+    color:var(--light);
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 44px;
+}
+
+.together_text p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    color:var(--light);
+    margin-left: 125px;
+}
+
+.together_text_button_download {
+    width:193px;
+    background-color: var(--dark-purple);
+    z-index: 1;
+    margin-left: 92px;
+}
+
+.together_text_button_download:hover {
+    background-color:var(--hover-purple);
+    cursor: pointer;
+}
+
+.together_text span{
+    color:var(--light-purple);
+}
+
+.section_number {
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+}
+
+.section_number_vert {
+    border-top: 84px solid var(--grey-transparent);
+    width: 1px;
+}
+
+.section_number_circle {
+    border: 1px solid var(--grey-transparent);
+    border-radius: 50%;
+    height: 56px;
+    width:56px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    background-color:var(--background);
+    z-index: 1;
+}
+
+@media screen and (max-width: 1155px) {
+
+    .groupchat {
+        flex-wrap: wrap;
+        height: auto;
+        margin-bottom: 80px;
+        margin-left: -5vw;
+        margin-right: -5vw;
+        justify-content:space-between;
+    }
+
+    .groupchat img{
+        flex-grow: 1;
+        max-width: 53vw;
+        width: 52vw;
+    }
+
+    .groupchat h1 {
+        font-size: 48px;
+        line-height: 48px;
+    }
+
+    .groupchat_text {
+        order: 3;
+        flex-grow: 1;
+        margin-top: 72px;
+        font-size: 16px;
+        line-height: 26px;
+    }
+    
+    .groupchat_text p{
+        max-width: 460px;
+        margin: 32px auto;
+    }
+
+    .groupchat_text p br {
+        display: none;
+    }
+
+    .modernuse_images {
+        width: 90%;     
+    }
+
+    .modernuse_images img {
+        width:23%;
+        height: auto;
+    }
+
+    .modernuse_text p br {
+        display: none;
+    }
+    
+    .together, .together::before {
+        height: 428px;
+    }
+
+    .together_text {
+        flex-direction:column;
+        flex-wrap: nowrap;
+        align-items:center;
+        justify-content: center;
+        text-align: center;
+        margin-bottom: 66px;
+    }
+
+    .together_text h2{
+        margin-top: 92px;
+    }
+
+    .together_text p {
+        margin: 32px auto;
+        max-width: 80%;
+    }
+
+    .together_text button{
+        margin: 0;
+    }
+
+    .together_text p br {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .groupchat h1{
+        font-size: 40px;
+        line-height: 44px;
+    }
+
+    .groupchat_text p {
+        font-size: 16px;
+        line-height: 26px;
+        max-width: 80%;
+        margin: 0 auto;
+        margin-top: 24px;
+        margin-bottom: 32px;
+    }
+
+    .groupchat div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .groupchat_text_button_info {
+        margin-top: 24px;
+        margin-left: 0px;
+    }
+
+    .modernuse_text {
+        width: auto;
+        max-width: 85%;
+    }
+
+    .modernuse h2 {
+        font-size: 32px;
+        line-height: 36px;
+    }
+
+    .modernuse h3{
+        font-size: 16px;
+        line-height: 26px;
+        letter-spacing: 4px;
+    }
+
+    .modernuse_text h2 br {
+        display: none;
+    }
+
+    .modernuse_images {
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items:center;
+    }
+
+    .modernuse_images img {
+        width:47%;
+        height: auto;
+    }
+
+    .modernuse_images img:nth-of-type(1), img:nth-of-type(2) {
+        margin-bottom: 6%;
+    }
+
+    .modernuse_text p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .together h2{
+        font-size: 32px;
+        line-height: 36px;
+    }
+
+    .together p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+
+    .together::before {
+        background-image:url(assets/mobile/image-footer.jpg)
+    }
+}

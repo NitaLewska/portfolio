@@ -1,0 +1,33 @@
+header {
+    margin-top: 40px;
+    padding-left: 20px;
+    border-radius: 14px;
+    background: var(--main-background-color);
+    position:sticky;
+    width: 1200px;
+    height: 100px;
+    top: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 11px;
+    background: #f2f2f2;
+    box-shadow:  15px 15px 31px #cecece,
+             -15px -15px 31px #ffffff;
+             
+    text-shadow: 1px 1px 5px rgb(255, 255, 204);
+}
+
+header h1{
+    color:  var(--main-font-color);
+    text-shadow: 1px 1px 5px rgb(255, 255, 204);
+}
+
+header.dark{
+    background: #1c1c1c;
+    box-shadow:  30px 30px 71px #0d0d0d,
+             -30px -30px 71px #2b2b2b;
+             color: #cecece;
+             
+    text-shadow: 1px 1px 5px rgb(245, 131, 131);
+}
