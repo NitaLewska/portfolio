@@ -5,7 +5,8 @@
         thumbnail:"../portfolio/frontendmentor/thumbnails/four-card-feature-section.jpg",
         frontendmentor:true,
         freelance:false,
-        difficulty: "newbie"
+        difficulty: "newbie",
+        favourite: false
     },
     {
         name:"Huddle landing page",
@@ -13,7 +14,8 @@
         thumbnail:"../portfolio/frontendmentor/thumbnails/huddle-landing-page-with-single-introductory-section.png",
         frontendmentor:true,
         freelance:false,
-        difficulty: "newbie"
+        difficulty: "newbie",
+        favourite: false
     },
     {
         name:"Ping coming soon page",
@@ -21,7 +23,8 @@
         thumbnail:"../portfolio/frontendmentor/thumbnails/ping-single-column-coming-soon-page.png",
         frontendmentor:true,
         freelance:false,
-        difficulty: "newbie"
+        difficulty: "newbie",
+        favourite: false
     },
     {
         name:"Single price grid component",
@@ -29,7 +32,8 @@
         thumbnail:"../portfolio/frontendmentor/thumbnails/single-price-grid-component.jpg",
         frontendmentor:true,
         freelance:false,
-        difficulty: "newbie"
+        difficulty: "newbie",
+        favourite: false
     },
     {
         name:"Intro component with sign-up form",
@@ -37,7 +41,8 @@
         thumbnail:"../portfolio/frontendmentor/thumbnails/intro-component-with-sign-up-form.png",
         frontendmentor:true,
         freelance:false,
-        difficulty: "newbie"
+        difficulty: "newbie",
+        favourite: false
     },
     {
         name:"Base Apparel coming soon page",
@@ -45,7 +50,8 @@
         thumbnail:"../portfolio/frontendmentor/thumbnails/base-apparel-coming-soon.png",
         frontendmentor:true,
         freelance:false,
-        difficulty: "newbie"
+        difficulty: "newbie",
+        favourite: false
     },
     {
         name:"Social proof section",
@@ -53,7 +59,8 @@
         thumbnail:"../portfolio/frontendmentor/thumbnails/social-proof-section.png",
         frontendmentor:true,
         freelance:false,
-        difficulty: "newbie"
+        difficulty: "newbie",
+        favourite: false
     },
     {
         name:"FAQ accordion card",
@@ -61,7 +68,8 @@
         thumbnail:"../portfolio/frontendmentor/thumbnails/FAQ-accordion-card.png",
         frontendmentor:true,
         freelance:false,
-        difficulty: "newbie"
+        difficulty: "newbie",
+        favourite: false
     },
     {
         name:"Profile card component",
@@ -69,7 +77,8 @@
         thumbnail:"../portfolio/frontendmentor/thumbnails/profile-card-component.png",
         frontendmentor:true,
         freelance:false,
-        difficulty: "newbie"
+        difficulty: "newbie",
+        favourite: false
     },
     {
         name:"Preview card component",
@@ -77,15 +86,35 @@
         thumbnail:"../portfolio/frontendmentor/thumbnails/3-column-preview-card-component.png",
         frontendmentor:true,
         freelance:false,
-        difficulty: "newbie"
+        difficulty: "newbie",
+        favourite: false
     },
     {
-        name:"Meet Landing Page",
+        name:"Meet Landing page",
         URL:"../portfolio/frontendmentor/meet-landing-page/index.html",
         thumbnail:"../portfolio/frontendmentor/thumbnails/meet-landing-page.png",
         frontendmentor:true,
         freelance:false,
-        difficulty: "newbie"
+        difficulty: "newbie",
+        favourite: false
+    },
+    {
+        name:"CARAT Landing page",
+        URL:"https://nitalewska.github.io/Kwork-CARAT/",
+        thumbnail:"../portfolio/frontendmentor/thumbnails/CARAT-landing-page.jpg",
+        frontendmentor:false,
+        freelance:true,
+        difficulty: "",
+        favourite: true
+    },
+    {
+        name:"Quiz",
+        URL:"https://nitalewska.github.io/quiz-react/",
+        thumbnail:"../portfolio/frontendmentor/thumbnails/quiz.jpg",
+        frontendmentor:false,
+        freelance:false,
+        difficulty: "",
+        favourite: true
     }
 ]
 
