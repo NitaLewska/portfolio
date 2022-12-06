@@ -4,6 +4,8 @@
     flex-direction: column;
     flex-wrap: wrap;
     gap: 30px;
+    height: auto;
+    padding-bottom: 100px;
 }
 
 .portfolio_category_container {
