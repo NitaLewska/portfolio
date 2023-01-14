@@ -26,6 +26,13 @@
     background: #f2f2f2;
     box-shadow: 19px 19px 37px #cecece,
         -19px -19px 37px #ffffff;
-    font-family: 'Montserrat', sans-serif;
     font-size: larger;
+}
+
+.portfolio_submenu_item{
+    text-align: center;
+    width: 100%;
+    text-indent:0;
+    margin-top: 30px;
+    font-weight: lighter;
 }

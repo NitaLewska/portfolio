@@ -4,10 +4,16 @@ import './Main.css'
 import Aside from "./Aside/Aside"
 
 export default function Main() {
+    const [section, setSection] = React.useState("portfolio")
+
+    function selectSection() {
+        setSection(document.querySelector('input[name = section_select]:checked').value)
+    }
+
     return (
         <main>
-            <Screen/>
-            <Aside/>
+            <Screen section = {section}/>
+            <Aside selectSection={selectSection}/>
         </main>
     )
 }

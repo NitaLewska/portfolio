@@ -9,6 +9,7 @@ header {
     top: 20px;
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
     justify-content: center;
     border-radius: 11px;
     background: #f2f2f2;

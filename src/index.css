@@ -11,10 +11,10 @@ body{
 }
 #root {
   display: flex;
-  flex-direction:column;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Nunito', sans-serif;
   max-height: 100vh;
 }
 
