@@ -1,4 +1,14 @@
 main {
-    width: 1200px;
+    max-width: 1200px;
+    width: 90vw;
     height: calc(100vh - 190px);
+}
+
+@media (max-width: 1000px) {
+    main {
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+        justify-content: flex-end;
+    }
 }

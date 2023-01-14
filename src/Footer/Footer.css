@@ -1,10 +1,11 @@
 footer{
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     align-items: center;
-    justify-content: space-between;
-    width: 1200px;
-    padding: 30px 0px 20px 900px;
+    justify-content:flex-start;
+    max-width: 1200px;
+    width: 90vw;
+    padding: 30px 0px 20px 0px;
     position: fixed;
     bottom: 30px;
 }
@@ -27,10 +28,9 @@ footer a:hover {
                  -8px -8px 16px #ffffff;
 }
 
-footer a.dark {
-    background: linear-gradient(145deg, #1e1e1e, #191919);
-}
 
-footer a.dark:hover{
-    background: linear-gradient(145deg, #1e1e1e, #191919);
+@media (max-width: 1000px) {
+    footer {
+        bottom: 0px;
+    }
 }

@@ -4,7 +4,8 @@ header {
     border-radius: 14px;
     background: var(--main-background-color);
     position:sticky;
-    width: 1200px;
+    max-width: 1200px;
+    width: 90vw;
     height: 100px;
     top: 20px;
     display: flex;

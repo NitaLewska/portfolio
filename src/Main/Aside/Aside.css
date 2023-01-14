@@ -35,3 +35,10 @@ aside label:hover{
 aside input {
     visibility: hidden;
 }
+
+@media (max-width: 1000px) {
+    aside form{
+        padding-top: 10px;
+        flex-direction: row;
+    }
+}

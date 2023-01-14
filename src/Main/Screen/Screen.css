@@ -1,6 +1,6 @@
 .screen {
-    width: 890px;
-    margin-top: 20px;
+    width: calc(100% - 310px);
+    margin-top: 10px;
     height: calc(100% - 20px);
     background-color: white;
     border-radius: 11px;
@@ -12,8 +12,10 @@
     
 }
 
-.screen.dark {
-    background: #1c1c1c;
-    box-shadow: inset 15px 15px 31px #0d0d0d,
-            inset -15px -15px 31px #2b2b2b;
+@media (max-width: 1000px) {
+    .screen {
+        float: none;
+        width: calc(100%);
+        height: calc(100% - 140px);
+    }
 }
