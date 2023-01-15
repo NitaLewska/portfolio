@@ -116,6 +116,15 @@
         difficulty: "",
         favourite: true
     }
+    {
+        name:"clipboard-landing-page",
+        URL:"https://nitalewska.github.io/clipboard-landing-page/",
+        thumbnail:"../portfolio/frontendmentor/thumbnails/clipboard-landing-page.jpg",
+        frontendmentor:true,
+        freelance:false,
+        difficulty: "junior",
+        favourite: true
+    }
 ]
 
 export default data
