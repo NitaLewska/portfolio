@@ -1,14 +1,14 @@
 {
   "main.css": "/portfolio/static/css/main.f414a963.chunk.css",
-  "main.js": "/portfolio/static/js/main.f06bb96a.chunk.js",
-  "main.js.map": "/portfolio/static/js/main.f06bb96a.chunk.js.map",
+  "main.js": "/portfolio/static/js/main.dccdd60c.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.dccdd60c.chunk.js.map",
   "static/js/1.7fe47eba.chunk.js": "/portfolio/static/js/1.7fe47eba.chunk.js",
   "static/js/1.7fe47eba.chunk.js.map": "/portfolio/static/js/1.7fe47eba.chunk.js.map",
   "runtime~main.js": "/portfolio/static/js/runtime~main.ee2a1003.js",
   "runtime~main.js.map": "/portfolio/static/js/runtime~main.ee2a1003.js.map",
-  "static/media/Work.css": "/portfolio/static/media/physics.22114569.jpg",
+  "static/media/Work.css": "/portfolio/static/media/pyaterochka.1aa0d557.webp",
   "static/css/main.f414a963.chunk.css.map": "/portfolio/static/css/main.f414a963.chunk.css.map",
   "index.html": "/portfolio/index.html",
-  "precache-manifest.84ed7937b109b76381497e36e47b9874.js": "/portfolio/precache-manifest.84ed7937b109b76381497e36e47b9874.js",
+  "precache-manifest.d92a408e2736e5da7f09f6eab105a8d3.js": "/portfolio/precache-manifest.d92a408e2736e5da7f09f6eab105a8d3.js",
   "service-worker.js": "/portfolio/service-worker.js"
 }
