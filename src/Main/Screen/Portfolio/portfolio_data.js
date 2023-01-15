@@ -115,7 +115,7 @@
         freelance:false,
         difficulty: "",
         favourite: true
-    }
+    },
     {
         name:"clipboard-landing-page",
         URL:"https://nitalewska.github.io/clipboard-landing-page/",
