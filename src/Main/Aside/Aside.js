@@ -13,7 +13,10 @@ export default function Aside(props) {
                     <input id="radio_portfolio" type="radio" name="section_select" value="portfolio" onInput={props.selectSection}/>
 		            <label for="radio_portfolio">My portfolio</label>
                 </div>
-
+                <div>
+                    <input id="radio_work" type="radio" name="section_select" value="work" onInput={props.selectSection}/>
+		            <label for="radio_work">Work history</label>
+                </div>
             </form>
         </aside>
     )

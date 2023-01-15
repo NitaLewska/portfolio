@@ -1,41 +1,39 @@
-#about {
-    height: 1000px;
-    padding: 50px;
+.about {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
 }
 
-article {
-    margin-bottom: 100px;
+.about article{
+    width: 100%;
 }
 
-h3{
+.about__heading {
     text-align: center;
     font-size: 24px;
-    margin-bottom: 20px;
+    font-weight: 800;
+    margin: 30px;
+    padding: 20px 0;
+    background: radial-gradient(circle, rgba(236,236,236,1) 35%, rgba(242,242,242,1) 50%);
 }
 
-p{
-    text-indent: 50px;
-    font-size: 20px;
-    width: 60%;
-    display: inline-block;
-    word-wrap:break-word;
-    margin-top: 50px;
+.about__general {
+    
 }
 
-#selfie{
-    width: 300px;
-    float: right;
-    border-radius: 18px;
-    box-shadow:  23px 23px 45px #cecece,
-                -23px -23px 45px #ffffff;
-                margin-bottom: 50px;
-}
 
-#skills{
-}
-
-.skills_container{
+.about__skills_container {
+    width: 100%;
+    padding: 0 5%;
     display: flex;
-    justify-content: space-evenly;
+    flex-direction: row;
     flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
 }
+
+.about__skills_container img {
+    width: 90px
+}
+

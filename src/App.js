@@ -11,7 +11,7 @@ function App() {
     <Header />
     <Main/>
     <Footer />
-    <ParticlesBg type="cobweb" bg={true} />
+    <ParticlesBg type="cobweb" bg={true} num={100}/>
     </>
   )
 }

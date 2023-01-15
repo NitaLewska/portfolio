@@ -1,0 +1,111 @@
+.work {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    margin: 30px;
+    gap: 20px;
+}
+
+.work_intro{
+    padding: 40px;
+    text-indent: 30px;
+    font-size: larger;
+    text-align: justify;
+}
+
+.work article{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border-bottom: 1px solid #e3e3e3;
+}
+
+.work article.realtor {
+    background: url(./realtor.jpeg);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 40%;
+}
+
+.work article.elections {
+    background: url(./elections.jpg);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 40%;
+}
+
+.work article.tutor {
+    background: url(./tutor.jpg);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 40%;
+}
+
+.work article.x5 {
+    background: url(./pyaterochka.webp);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 40% ;
+}
+
+.work article.webdev {
+    background: url(./webdev.jpeg);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 40% ;
+}
+
+.work article.incity {
+    background: url(./incity.jpg);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 40% ;
+}
+
+.work article.mts {
+    background: url(./mts.jpg);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 40% ;
+}
+
+.work article.physics {
+    background: url(./physics.jpg);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 40% ;
+}
+
+.work li {
+    width: calc(50%);
+}
+
+.work ul {
+    margin-bottom: 20px;
+}
+
+.work__heading {
+    text-align: left;
+    font-size: 24px;
+    font-weight: 800;
+    margin: 0px 0px 7px; 
+}
+
+.work__heading+p {
+    margin-bottom: 10px;
+}
+
+.work__heading+p>span {
+    font-weight: bolder;
+}
+
+
+
+.work__img {
+    position: relative;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+}
