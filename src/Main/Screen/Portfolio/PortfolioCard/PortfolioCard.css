@@ -22,6 +22,7 @@
     text-decoration: none;
     cursor: pointer;
     color: black;
+    text-align: center;
 }
 
 .portfolioCard:hover {

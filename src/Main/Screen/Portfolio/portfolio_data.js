@@ -6,7 +6,8 @@
         frontendmentor:true,
         freelance:false,
         difficulty: "newbie",
-        favourite: false
+        favourite: false,
+        pet: false
     },
     {
         name:"Huddle landing page",
@@ -15,7 +16,8 @@
         frontendmentor:true,
         freelance:false,
         difficulty: "newbie",
-        favourite: false
+        favourite: false,
+        pet: false
     },
     {
         name:"Ping coming soon page",
@@ -24,7 +26,8 @@
         frontendmentor:true,
         freelance:false,
         difficulty: "newbie",
-        favourite: false
+        favourite: false,
+        pet: false
     },
     {
         name:"Single price grid component",
@@ -33,16 +36,18 @@
         frontendmentor:true,
         freelance:false,
         difficulty: "newbie",
-        favourite: false
+        favourite: false,
+        pet: false
     },
     {
         name:"Intro component with sign-up form",
-        URL:"../portfolio/frontendmentor/intro-component-with-sign-up-form/index.html",
+        URL:"../portfolio/frontendmentor/Intro-component-with-sign-up-form/index.html",
         thumbnail:"../portfolio/frontendmentor/thumbnails/intro-component-with-sign-up-form.png",
         frontendmentor:true,
         freelance:false,
         difficulty: "newbie",
-        favourite: false
+        favourite: false,
+        pet: false
     },
     {
         name:"Base Apparel coming soon page",
@@ -51,7 +56,8 @@
         frontendmentor:true,
         freelance:false,
         difficulty: "newbie",
-        favourite: false
+        favourite: false,
+        pet: false
     },
     {
         name:"Social proof section",
@@ -60,7 +66,8 @@
         frontendmentor:true,
         freelance:false,
         difficulty: "newbie",
-        favourite: false
+        favourite: false,
+        pet: false
     },
     {
         name:"FAQ accordion card",
@@ -69,7 +76,8 @@
         frontendmentor:true,
         freelance:false,
         difficulty: "newbie",
-        favourite: false
+        favourite: false,
+        pet: false
     },
     {
         name:"Profile card component",
@@ -78,7 +86,8 @@
         frontendmentor:true,
         freelance:false,
         difficulty: "newbie",
-        favourite: false
+        favourite: false,
+        pet: false
     },
     {
         name:"Preview card component",
@@ -87,7 +96,8 @@
         frontendmentor:true,
         freelance:false,
         difficulty: "newbie",
-        favourite: false
+        favourite: false,
+        pet: false
     },
     {
         name:"Meet Landing page",
@@ -96,7 +106,8 @@
         frontendmentor:true,
         freelance:false,
         difficulty: "newbie",
-        favourite: false
+        favourite: false,
+        pet: false
     },
     {
         name:"CARAT Landing page",
@@ -105,7 +116,8 @@
         frontendmentor:false,
         freelance:true,
         difficulty: "",
-        favourite: true
+        favourite: true,
+        pet: false
     },
     {
         name:"Quiz",
@@ -114,16 +126,48 @@
         frontendmentor:false,
         freelance:false,
         difficulty: "",
-        favourite: true
+        favourite: true,
+        pet: true
     },
     {
-        name:"clipboard-landing-page",
+        name:"Clipboard Landing page",
         URL:"https://nitalewska.github.io/clipboard-landing-page/",
         thumbnail:"../portfolio/frontendmentor/thumbnails/clipboard-landing-page.jpg",
         frontendmentor:true,
         freelance:false,
         difficulty: "junior",
-        favourite: true
+        favourite: true,
+        pet: false
+    },
+    {
+        name:"Testimonials Grid Section",
+        URL:"https://nitalewska.github.io/testimonials-grid-section",
+        thumbnail:"../portfolio/frontendmentor/thumbnails/testimonials-grid-section.png",
+        frontendmentor:true,
+        freelance:false,
+        difficulty: "junior",
+        favourite: false,
+        pet: false
+    },
+    {
+        name:"3D Artist's Portfolio",
+        URL:"https://nitalewska.github.io/dzirun-portfolio",
+        thumbnail:"../portfolio/frontendmentor/thumbnails/dzirun_portfolio.jpg",
+        frontendmentor:false,
+        freelance:false,
+        difficulty: "",
+        favourite: false,
+        pet: true
+    },
+    {
+        name:"JS Calculator",
+        URL:"https://nitalewska.github.io/calc_js",
+        thumbnail:"../portfolio/frontendmentor/thumbnails/calc-js.jpg",
+        frontendmentor:false,
+        freelance:false,
+        difficulty: "",
+        favourite: true,
+        pet: true
     }
 ]
 

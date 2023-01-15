@@ -8,6 +8,7 @@ export default function Portfolio() {
     const cardsFMJ = data.filter(a => (a.frontendmentor === true  && a.difficulty === "junior")).map(a => <PortfolioCard name={a.name} img={a.thumbnail} URL={a.URL} />) 
     const cardsFL = data.filter(a => a.freelance === true).map(a => <PortfolioCard name={a.name} img={a.thumbnail} URL={a.URL} />)
     const cardsBest = data.filter(a => a.favourite === true).map(a => <PortfolioCard name={a.name} img={a.thumbnail} URL={a.URL} />)
+    const cardsPP = data.filter(a => a.pet === true).map(a => <PortfolioCard name={a.name} img={a.thumbnail} URL={a.URL} />)
     return (
         <div className="portfolio_container">
             <details className="portfolio_menu_item" open>
@@ -35,10 +36,9 @@ export default function Portfolio() {
                 </div>
             </details>
             <details className="portfolio_menu_item">
-                <summary>Test tasks</summary>
-                <p className="portfolio_submenu_item">ooo</p>
+                <summary>Pet projects</summary>
                 <div className="portfolio_category_container">
-                    {cardsFL}
+                    {cardsPP}
                 </div>
             </details>
         </div>
