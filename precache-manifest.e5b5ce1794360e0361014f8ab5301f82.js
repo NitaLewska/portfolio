@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ef5cdfb2903524cc3d47",
+    "revision": "f06bb96aab61876f928d",
     "url": "/portfolio/static/css/main.f414a963.chunk.css"
   },
   {
-    "revision": "ef5cdfb2903524cc3d47",
-    "url": "/portfolio/static/js/main.ef5cdfb2.chunk.js"
+    "revision": "f06bb96aab61876f928d",
+    "url": "/portfolio/static/js/main.f06bb96a.chunk.js"
   },
   {
     "revision": "7fe47ebaa6fb784ebffe",
@@ -20,35 +20,35 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/elections.809ebbbf.jpg"
   },
   {
-    "revision": "1aa0d5570fe44e8f692271e14d721ba3",
-    "url": "/portfolio/static/media/pyaterochka.1aa0d557.webp"
-  },
-  {
-    "revision": "de3c26ad45697d5d64a45f5b480d0d73",
-    "url": "/portfolio/static/media/webdev.de3c26ad.jpeg"
+    "revision": "07dd76631c1c32b8667edf88ab347391",
+    "url": "/portfolio/static/media/realtor.07dd7663.jpeg"
   },
   {
     "revision": "70086aefc144ef041ec4b6668b02676e",
     "url": "/portfolio/static/media/tutor.70086aef.jpg"
   },
   {
-    "revision": "07dd76631c1c32b8667edf88ab347391",
-    "url": "/portfolio/static/media/realtor.07dd7663.jpeg"
-  },
-  {
-    "revision": "f256d9f98558dc8dbe1f907f6d94b318",
-    "url": "/portfolio/static/media/incity.f256d9f9.jpg"
-  },
-  {
-    "revision": "221145690898f61bb66a40498674b643",
-    "url": "/portfolio/static/media/physics.22114569.jpg"
+    "revision": "1aa0d5570fe44e8f692271e14d721ba3",
+    "url": "/portfolio/static/media/pyaterochka.1aa0d557.webp"
   },
   {
     "revision": "ddc1eebd229843d4165e1a1736da237b",
     "url": "/portfolio/static/media/mts.ddc1eebd.jpg"
   },
   {
-    "revision": "4b216f8e62035327c9a49603c3a09a96",
+    "revision": "de3c26ad45697d5d64a45f5b480d0d73",
+    "url": "/portfolio/static/media/webdev.de3c26ad.jpeg"
+  },
+  {
+    "revision": "221145690898f61bb66a40498674b643",
+    "url": "/portfolio/static/media/physics.22114569.jpg"
+  },
+  {
+    "revision": "f256d9f98558dc8dbe1f907f6d94b318",
+    "url": "/portfolio/static/media/incity.f256d9f9.jpg"
+  },
+  {
+    "revision": "5987ac0c00ff5954d551580895a36e4d",
     "url": "/portfolio/index.html"
   }
 ];
