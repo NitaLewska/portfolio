@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2de6d2c106ac46815180",
+    "revision": "00cbb171f1bf05026570",
     "url": "/portfolio/static/css/main.f414a963.chunk.css"
   },
   {
-    "revision": "2de6d2c106ac46815180",
-    "url": "/portfolio/static/js/main.2de6d2c1.chunk.js"
+    "revision": "00cbb171f1bf05026570",
+    "url": "/portfolio/static/js/main.00cbb171.chunk.js"
   },
   {
     "revision": "7fe47ebaa6fb784ebffe",
@@ -20,35 +20,35 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/realtor.07dd7663.jpeg"
   },
   {
-    "revision": "70086aefc144ef041ec4b6668b02676e",
-    "url": "/portfolio/static/media/tutor.70086aef.jpg"
+    "revision": "de3c26ad45697d5d64a45f5b480d0d73",
+    "url": "/portfolio/static/media/webdev.de3c26ad.jpeg"
   },
   {
     "revision": "809ebbbffdb918545360fa3145e78558",
     "url": "/portfolio/static/media/elections.809ebbbf.jpg"
   },
   {
-    "revision": "de3c26ad45697d5d64a45f5b480d0d73",
-    "url": "/portfolio/static/media/webdev.de3c26ad.jpeg"
-  },
-  {
-    "revision": "f256d9f98558dc8dbe1f907f6d94b318",
-    "url": "/portfolio/static/media/incity.f256d9f9.jpg"
-  },
-  {
-    "revision": "221145690898f61bb66a40498674b643",
-    "url": "/portfolio/static/media/physics.22114569.jpg"
+    "revision": "70086aefc144ef041ec4b6668b02676e",
+    "url": "/portfolio/static/media/tutor.70086aef.jpg"
   },
   {
     "revision": "ddc1eebd229843d4165e1a1736da237b",
     "url": "/portfolio/static/media/mts.ddc1eebd.jpg"
   },
   {
+    "revision": "221145690898f61bb66a40498674b643",
+    "url": "/portfolio/static/media/physics.22114569.jpg"
+  },
+  {
     "revision": "1aa0d5570fe44e8f692271e14d721ba3",
     "url": "/portfolio/static/media/pyaterochka.1aa0d557.webp"
   },
   {
-    "revision": "efe11e435c9b8fef0e2a1c4f24ccbe07",
+    "revision": "f256d9f98558dc8dbe1f907f6d94b318",
+    "url": "/portfolio/static/media/incity.f256d9f9.jpg"
+  },
+  {
+    "revision": "d332f2a2313a9009c99f9ffc5b67a270",
     "url": "/portfolio/index.html"
   }
 ];
