@@ -22,6 +22,10 @@
     border-bottom: 1px solid #e3e3e3;
 }
 
+.work article  img{
+    width: 30%;
+}
+
 .work article.realtor {
     background: url(./realtor.jpeg);
     background-repeat: no-repeat;
@@ -49,14 +53,6 @@
     background-position: center right;
     background-size: 40% ;
 }
-
-.work article.webdev {
-    background: url(./webdev.jpeg);
-    background-repeat: no-repeat;
-    background-position: center right;
-    background-size: 40% ;
-}
-
 .work article.incity {
     background: url(./incity.jpg);
     background-repeat: no-repeat;
@@ -99,13 +95,4 @@
 
 .work__heading+p>span {
     font-weight: bolder;
-}
-
-
-
-.work__img {
-    position: relative;
-    background-color: black;
-    width: 200px;
-    height: 200px;
 }

@@ -2,23 +2,26 @@ html {
   box-sizing: border-box;
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
   margin: 0px;
 }
-body{
+
+body {
   background-color: #f2f2f2;
 }
+
 #root {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-family: 'Nunito', sans-serif;
-  max-height: 100vh;
+  height: 100vh;
 }
 
 #root.dark {
-    background-color: #1c1c1c;
+  background-color: #1c1c1c;
 }
-

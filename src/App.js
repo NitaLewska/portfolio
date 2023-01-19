@@ -10,7 +10,6 @@ function App() {
     <>
     <Header />
     <Main/>
-    <Footer />
     <ParticlesBg type="cobweb" bg={true} num={100}/>
     </>
   )

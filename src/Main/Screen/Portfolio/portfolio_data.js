@@ -7,7 +7,9 @@
         freelance:false,
         difficulty: "newbie",
         favourite: false,
-        pet: false
+        pet: false,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"Huddle landing page",
@@ -17,7 +19,9 @@
         freelance:false,
         difficulty: "newbie",
         favourite: false,
-        pet: false
+        pet: false,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"Ping coming soon page",
@@ -27,7 +31,9 @@
         freelance:false,
         difficulty: "newbie",
         favourite: false,
-        pet: false
+        pet: false,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"Single price grid component",
@@ -37,7 +43,9 @@
         freelance:false,
         difficulty: "newbie",
         favourite: false,
-        pet: false
+        pet: false,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"Intro component with sign-up form",
@@ -47,7 +55,9 @@
         freelance:false,
         difficulty: "newbie",
         favourite: false,
-        pet: false
+        pet: false,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"Base Apparel coming soon page",
@@ -57,7 +67,9 @@
         freelance:false,
         difficulty: "newbie",
         favourite: false,
-        pet: false
+        pet: false,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"Social proof section",
@@ -67,7 +79,9 @@
         freelance:false,
         difficulty: "newbie",
         favourite: false,
-        pet: false
+        pet: false,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"FAQ accordion card",
@@ -77,7 +91,9 @@
         freelance:false,
         difficulty: "newbie",
         favourite: false,
-        pet: false
+        pet: false,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"Profile card component",
@@ -87,7 +103,9 @@
         freelance:false,
         difficulty: "newbie",
         favourite: false,
-        pet: false
+        pet: false,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"Preview card component",
@@ -97,7 +115,9 @@
         freelance:false,
         difficulty: "newbie",
         favourite: false,
-        pet: false
+        pet: false,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"Meet Landing page",
@@ -107,7 +127,9 @@
         freelance:false,
         difficulty: "newbie",
         favourite: false,
-        pet: false
+        pet: false,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"CARAT Landing page",
@@ -117,7 +139,9 @@
         freelance:true,
         difficulty: "",
         favourite: true,
-        pet: false
+        pet: false,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"Quiz",
@@ -127,7 +151,9 @@
         freelance:false,
         difficulty: "",
         favourite: true,
-        pet: true
+        pet: true,
+        langs: "HTML/CSS/ReactJS/API",
+        description:""
     },
     {
         name:"Clipboard Landing page",
@@ -137,37 +163,45 @@
         freelance:false,
         difficulty: "junior",
         favourite: true,
-        pet: false
+        pet: false,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"Testimonials Grid Section",
-        URL:"https://nitalewska.github.io/testimonials-grid-section",
+        URL:"../portfolio/frontendmentor/testimonials-grid-section/index.html",
         thumbnail:"../portfolio/frontendmentor/thumbnails/testimonials-grid-section.png",
         frontendmentor:true,
         freelance:false,
         difficulty: "junior",
         favourite: false,
-        pet: false
+        pet: false,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"3D Artist's Portfolio",
-        URL:"https://nitalewska.github.io/dzirun-portfolio",
+        URL:"../portfolio/frontendmentor/dzirun_portfolio/index.html",
         thumbnail:"../portfolio/frontendmentor/thumbnails/dzirun_portfolio.jpg",
         frontendmentor:false,
         freelance:false,
         difficulty: "",
         favourite: false,
-        pet: true
+        pet: true,
+        langs: "HTML/CSS",
+        description:""
     },
     {
         name:"JS Calculator",
-        URL:"https://nitalewska.github.io/calc_js",
+        URL:"../portfolio/frontendmentor/calc_js/index.html",
         thumbnail:"../portfolio/frontendmentor/thumbnails/calc-js.jpg",
         frontendmentor:false,
         freelance:false,
         difficulty: "",
         favourite: true,
-        pet: true
+        pet: true,
+        langs: "HTML/CSS/JS",
+        description:""
     }
 ]
 

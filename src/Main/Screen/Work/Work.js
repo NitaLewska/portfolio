@@ -1,26 +1,26 @@
 import React from "react"
 import './Work.css'
+import webdev from "./webdev.jpeg"
 
 export default function Work() {
-    return(
+    return (
         <section className="work">
 
             <p className="work_intro">I tried different professions and fields of activity before I found myself in web development, and this helped me develop a wide range of skills, like communication, .....</p>
-
-
             <article className="work__item webdev">
                 <h3 className="work__heading">Frontend Web Developer</h3>
-                <p><span>self-employed</span>, 2022-2023</p>
+                <p><span>Self-employed</span>, 2022-2023</p>
                 <ul className="work__description">
-                    <li>Increased sales and customer satisfaction through personalized servicing.</li>
-                    <li>Listened to clients and introduced solutions to satisfy business and personal needs.</li>
-                    <li>Balanced and organized cash register by handling cash, counting change and storing coupons.</li>
-                    <li>Worked with loss prevention in monitoring shopper behavior.</li>
+                    <li>Coded websites using HTML, CSS, JavaScript and React. </li>
+                    <li>Provided front-end website development using WordPress, Tilda and other editing software.</li>
+                    <li>Designed, implemented and monitored web pages, plugins and functionality for continuous improvement.</li>
+                    <li>Engaged with clients to plan and optimize site issues and queries.</li>
                 </ul>
+                <img src={webdev} />
             </article>
             <article className="work__item tutor">
                 <h3 className="work__heading">Private Maths and Physics Tutor</h3>
-                <p><span>self-employed</span>, 2014-2023</p>
+                <p><span>Self-employed</span>, 2014-2023</p>
                 <ul className="work__description">
                     <li>Used positive reinforcement, repetition and review to help students master challenging material.</li>
                     <li>Collaborated with students to complete homework assignments, identify lagging skills and correct weaknesses.</li>
@@ -29,7 +29,7 @@ export default function Work() {
                 </ul>
             </article>
             <article className="work__item elections">
-                <h3 className="work__heading">Deputy Chairman<br/>of a Local Electoral Commission</h3>
+                <h3 className="work__heading">Deputy Chairman<br />of a Local Electoral Commission</h3>
                 <p><span>Lipetsk Electoral Commission 24-12</span>, 2012-2023</p>
                 <ul className="work__description">
                     <li>Distributed ballots to voters and answered questions concerning voting procedures.</li>
@@ -50,7 +50,7 @@ export default function Work() {
             </article>
             <article className="work__item realtor">
                 <h3 className="work__heading">Realtor</h3>
-                <p><span>real estate agency "Garant+"</span>, 2014-2015</p>
+                <p><span>Real estate agency "Garant+"</span>, 2014-2015</p>
                 <ul className="work__description">
                     <li>Managed contracts, negotiations and all aspects of sales to finalize purchases and exceed customer expectations.</li>
                     <li>Liaised between buyers and sellers to provide positive experiences for both parties.</li>
