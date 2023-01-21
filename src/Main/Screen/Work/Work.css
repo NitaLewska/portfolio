@@ -22,8 +22,11 @@
     border-bottom: 1px solid #e3e3e3;
 }
 
-.work article  img{
-    width: 30%;
+.work article.webdev {
+    background: url(./webdev.jpeg);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 40%;
 }
 
 .work article.realtor {
@@ -95,4 +98,15 @@
 
 .work__heading+p>span {
     font-weight: bolder;
+}
+
+@media (max-width: 600px) {
+    
+.work article.work__item {
+background: none;
+}
+
+.work li {
+    width: calc(100%);
+}
 }
