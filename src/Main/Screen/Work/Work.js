@@ -1,12 +1,11 @@
 import React from "react"
 import './Work.css'
-import webdev from "./webdev.jpeg"
 
 export default function Work() {
     return (
         <section className="work">
 
-            <p className="work_intro">I tried different professions and fields of activity before I found myself in web development, and this helped me develop a wide range of skills, like communication, .....</p>
+            <p className="work_intro">I tried different professions and fields of activity before I found myself in web development, and this helped me develop a wide range of skills, like communication, adapdability, teamwork, conflict management and resolution, critical thinking and patience. </p>
             <article className="work__item webdev">
                 <h3 className="work__heading">Frontend Web Developer</h3>
                 <p><span>Self-employed</span>, 2022-2023</p>
@@ -16,7 +15,6 @@ export default function Work() {
                     <li>Designed, implemented and monitored web pages, plugins and functionality for continuous improvement.</li>
                     <li>Engaged with clients to plan and optimize site issues and queries.</li>
                 </ul>
-                <img src={webdev} />
             </article>
             <article className="work__item tutor">
                 <h3 className="work__heading">Private Maths and Physics Tutor</h3>

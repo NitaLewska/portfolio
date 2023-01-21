@@ -27,6 +27,7 @@
     box-shadow: 19px 19px 37px #cecece,
         -19px -19px 37px #ffffff;
     font-size: larger;
+    cursor: pointer;
 }
 
 .portfolio_submenu_item{

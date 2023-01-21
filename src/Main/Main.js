@@ -4,7 +4,7 @@ import './Main.css'
 import Aside from "./Aside/Aside"
 
 export default function Main() {
-    const [section, setSection] = React.useState("portfolio")
+    const [section, setSection] = React.useState("about")
 
     function selectSection() {
         setSection(document.querySelector('input[name = section_select]:checked').value)

@@ -24,6 +24,7 @@ aside label {
     background: #f2f2f2;
     box-shadow: 20px 20px 60px #cecece,
         -20px -20px 60px #ffffff;
+    cursor: pointer;
 }
 
 aside label:hover {
@@ -34,7 +35,7 @@ aside label:hover {
 
 aside input {
     visibility: hidden;
-    
+
 }
 
 
@@ -71,7 +72,7 @@ aside input {
 
 @media (max-width: 1000px) {
 
-    aside{
+    aside {
         flex-direction: column-reverse;
         margin-top: -47px;
         width: 90vw;
@@ -83,9 +84,9 @@ aside input {
         flex-direction: row;
         height: auto;
         width: 100%;
-        
-        justify-content:center;
- }
+
+        justify-content: center;
+    }
 
     aside label {
         width: auto;

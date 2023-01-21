@@ -1,6 +1,6 @@
 .screen {
-    width: calc(100% - 310px);
-    margin-top: 10px;
+    width: 75%;
+    margin-top: 20px;
     height: calc(100% - 20px);
     background-color: white;
     border-radius: 11px;
@@ -15,7 +15,8 @@
 @media (max-width: 1000px) {
     .screen {
         float: none;
-        width: calc(100%);
-        height: calc(100% - 140px);
+        width: 100%;
+        height: 100%;
+        margin-top: 0px;
     }
 }
