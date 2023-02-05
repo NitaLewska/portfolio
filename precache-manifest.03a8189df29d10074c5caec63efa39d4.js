@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "41011ac08e69d1bed2e4",
+    "revision": "09552d7967ec2ff0cc14",
     "url": "/portfolio/static/css/main.ee9cdc34.chunk.css"
   },
   {
-    "revision": "41011ac08e69d1bed2e4",
-    "url": "/portfolio/static/js/main.41011ac0.chunk.js"
+    "revision": "09552d7967ec2ff0cc14",
+    "url": "/portfolio/static/js/main.09552d79.chunk.js"
   },
   {
     "revision": "2b5900aa3a56149feebf",
@@ -16,28 +16,28 @@ self.__precacheManifest = [
     "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
   },
   {
-    "revision": "07dd76631c1c32b8667edf88ab347391",
-    "url": "/portfolio/static/media/realtor.07dd7663.jpeg"
-  },
-  {
     "revision": "de3c26ad45697d5d64a45f5b480d0d73",
     "url": "/portfolio/static/media/webdev.de3c26ad.jpeg"
   },
   {
-    "revision": "70086aefc144ef041ec4b6668b02676e",
-    "url": "/portfolio/static/media/tutor.70086aef.jpg"
+    "revision": "07dd76631c1c32b8667edf88ab347391",
+    "url": "/portfolio/static/media/realtor.07dd7663.jpeg"
   },
   {
     "revision": "809ebbbffdb918545360fa3145e78558",
     "url": "/portfolio/static/media/elections.809ebbbf.jpg"
   },
   {
-    "revision": "221145690898f61bb66a40498674b643",
-    "url": "/portfolio/static/media/physics.22114569.jpg"
+    "revision": "70086aefc144ef041ec4b6668b02676e",
+    "url": "/portfolio/static/media/tutor.70086aef.jpg"
   },
   {
     "revision": "ddc1eebd229843d4165e1a1736da237b",
     "url": "/portfolio/static/media/mts.ddc1eebd.jpg"
+  },
+  {
+    "revision": "221145690898f61bb66a40498674b643",
+    "url": "/portfolio/static/media/physics.22114569.jpg"
   },
   {
     "revision": "f256d9f98558dc8dbe1f907f6d94b318",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/pyaterochka.1aa0d557.webp"
   },
   {
-    "revision": "7085b3c076b5a1c480d9ffa4d9cacabd",
+    "revision": "f47d259b513fd6a9358b9b351d40a641",
     "url": "/portfolio/index.html"
   }
 ];
