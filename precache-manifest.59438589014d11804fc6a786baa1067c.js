@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c78f650975adf3e7a325",
+    "revision": "edb24a81f5d54551d0ee",
     "url": "/portfolio/static/css/main.ee9cdc34.chunk.css"
   },
   {
-    "revision": "c78f650975adf3e7a325",
-    "url": "/portfolio/static/js/main.c78f6509.chunk.js"
+    "revision": "edb24a81f5d54551d0ee",
+    "url": "/portfolio/static/js/main.edb24a81.chunk.js"
   },
   {
     "revision": "2b5900aa3a56149feebf",
@@ -16,6 +16,10 @@ self.__precacheManifest = [
     "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
   },
   {
+    "revision": "1aa0d5570fe44e8f692271e14d721ba3",
+    "url": "/portfolio/static/media/pyaterochka.1aa0d557.webp"
+  },
+  {
     "revision": "de3c26ad45697d5d64a45f5b480d0d73",
     "url": "/portfolio/static/media/webdev.de3c26ad.jpeg"
   },
@@ -24,31 +28,27 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/elections.809ebbbf.jpg"
   },
   {
-    "revision": "07dd76631c1c32b8667edf88ab347391",
-    "url": "/portfolio/static/media/realtor.07dd7663.jpeg"
-  },
-  {
-    "revision": "70086aefc144ef041ec4b6668b02676e",
-    "url": "/portfolio/static/media/tutor.70086aef.jpg"
-  },
-  {
     "revision": "ddc1eebd229843d4165e1a1736da237b",
     "url": "/portfolio/static/media/mts.ddc1eebd.jpg"
+  },
+  {
+    "revision": "07dd76631c1c32b8667edf88ab347391",
+    "url": "/portfolio/static/media/realtor.07dd7663.jpeg"
   },
   {
     "revision": "f256d9f98558dc8dbe1f907f6d94b318",
     "url": "/portfolio/static/media/incity.f256d9f9.jpg"
   },
   {
+    "revision": "70086aefc144ef041ec4b6668b02676e",
+    "url": "/portfolio/static/media/tutor.70086aef.jpg"
+  },
+  {
     "revision": "221145690898f61bb66a40498674b643",
     "url": "/portfolio/static/media/physics.22114569.jpg"
   },
   {
-    "revision": "1aa0d5570fe44e8f692271e14d721ba3",
-    "url": "/portfolio/static/media/pyaterochka.1aa0d557.webp"
-  },
-  {
-    "revision": "c03ef928dd889634e5c01f8acbd380dc",
+    "revision": "3d9cbbc35a80500c41b9334a5b272914",
     "url": "/portfolio/index.html"
   }
 ];
