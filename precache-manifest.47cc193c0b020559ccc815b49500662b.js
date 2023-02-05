@@ -1,54 +1,54 @@
 self.__precacheManifest = [
   {
-    "revision": "80e1c9c5c052416eb7fb",
+    "revision": "232ba9183b9802befd68",
     "url": "/portfolio/static/css/main.ee9cdc34.chunk.css"
   },
   {
-    "revision": "80e1c9c5c052416eb7fb",
-    "url": "/portfolio/static/js/main.80e1c9c5.chunk.js"
+    "revision": "232ba9183b9802befd68",
+    "url": "/portfolio/static/js/main.232ba918.chunk.js"
   },
   {
-    "revision": "926683eb5024e5dd0e1f",
-    "url": "/portfolio/static/js/1.926683eb.chunk.js"
+    "revision": "2b5900aa3a56149feebf",
+    "url": "/portfolio/static/js/1.2b5900aa.chunk.js"
   },
   {
     "revision": "ee2a100325fd284f0097",
     "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
   },
   {
-    "revision": "de3c26ad45697d5d64a45f5b480d0d73",
-    "url": "/portfolio/static/media/webdev.de3c26ad.jpeg"
-  },
-  {
     "revision": "809ebbbffdb918545360fa3145e78558",
     "url": "/portfolio/static/media/elections.809ebbbf.jpg"
   },
   {
-    "revision": "ddc1eebd229843d4165e1a1736da237b",
-    "url": "/portfolio/static/media/mts.ddc1eebd.jpg"
+    "revision": "de3c26ad45697d5d64a45f5b480d0d73",
+    "url": "/portfolio/static/media/webdev.de3c26ad.jpeg"
   },
   {
     "revision": "07dd76631c1c32b8667edf88ab347391",
     "url": "/portfolio/static/media/realtor.07dd7663.jpeg"
   },
   {
-    "revision": "221145690898f61bb66a40498674b643",
-    "url": "/portfolio/static/media/physics.22114569.jpg"
-  },
-  {
     "revision": "70086aefc144ef041ec4b6668b02676e",
     "url": "/portfolio/static/media/tutor.70086aef.jpg"
   },
   {
-    "revision": "f256d9f98558dc8dbe1f907f6d94b318",
-    "url": "/portfolio/static/media/incity.f256d9f9.jpg"
+    "revision": "ddc1eebd229843d4165e1a1736da237b",
+    "url": "/portfolio/static/media/mts.ddc1eebd.jpg"
   },
   {
     "revision": "1aa0d5570fe44e8f692271e14d721ba3",
     "url": "/portfolio/static/media/pyaterochka.1aa0d557.webp"
   },
   {
-    "revision": "814b99865eb6220c5c2b8b2496293c9d",
+    "revision": "221145690898f61bb66a40498674b643",
+    "url": "/portfolio/static/media/physics.22114569.jpg"
+  },
+  {
+    "revision": "f256d9f98558dc8dbe1f907f6d94b318",
+    "url": "/portfolio/static/media/incity.f256d9f9.jpg"
+  },
+  {
+    "revision": "81e5d5e8941e87ed56c08c1855ab785e",
     "url": "/portfolio/index.html"
   }
 ];
