@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "80360bc2737774f2c4b1",
+    "revision": "41011ac08e69d1bed2e4",
     "url": "/portfolio/static/css/main.ee9cdc34.chunk.css"
   },
   {
-    "revision": "80360bc2737774f2c4b1",
-    "url": "/portfolio/static/js/main.80360bc2.chunk.js"
+    "revision": "41011ac08e69d1bed2e4",
+    "url": "/portfolio/static/js/main.41011ac0.chunk.js"
   },
   {
     "revision": "2b5900aa3a56149feebf",
@@ -16,12 +16,16 @@ self.__precacheManifest = [
     "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
   },
   {
+    "revision": "07dd76631c1c32b8667edf88ab347391",
+    "url": "/portfolio/static/media/realtor.07dd7663.jpeg"
+  },
+  {
     "revision": "de3c26ad45697d5d64a45f5b480d0d73",
     "url": "/portfolio/static/media/webdev.de3c26ad.jpeg"
   },
   {
-    "revision": "ddc1eebd229843d4165e1a1736da237b",
-    "url": "/portfolio/static/media/mts.ddc1eebd.jpg"
+    "revision": "70086aefc144ef041ec4b6668b02676e",
+    "url": "/portfolio/static/media/tutor.70086aef.jpg"
   },
   {
     "revision": "809ebbbffdb918545360fa3145e78558",
@@ -32,23 +36,19 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/physics.22114569.jpg"
   },
   {
-    "revision": "70086aefc144ef041ec4b6668b02676e",
-    "url": "/portfolio/static/media/tutor.70086aef.jpg"
+    "revision": "ddc1eebd229843d4165e1a1736da237b",
+    "url": "/portfolio/static/media/mts.ddc1eebd.jpg"
   },
   {
     "revision": "f256d9f98558dc8dbe1f907f6d94b318",
     "url": "/portfolio/static/media/incity.f256d9f9.jpg"
   },
   {
-    "revision": "07dd76631c1c32b8667edf88ab347391",
-    "url": "/portfolio/static/media/realtor.07dd7663.jpeg"
-  },
-  {
     "revision": "1aa0d5570fe44e8f692271e14d721ba3",
     "url": "/portfolio/static/media/pyaterochka.1aa0d557.webp"
   },
   {
-    "revision": "b7a7751163f07cb1ebebd9bbf64f7d09",
+    "revision": "7085b3c076b5a1c480d9ffa4d9cacabd",
     "url": "/portfolio/index.html"
   }
 ];
