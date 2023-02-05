@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "9be5058ed95aeb10fafa",
+    "revision": "d1672cf847227663ae95",
     "url": "/portfolio/static/css/main.ee9cdc34.chunk.css"
   },
   {
-    "revision": "9be5058ed95aeb10fafa",
-    "url": "/portfolio/static/js/main.9be5058e.chunk.js"
+    "revision": "d1672cf847227663ae95",
+    "url": "/portfolio/static/js/main.d1672cf8.chunk.js"
   },
   {
     "revision": "2b5900aa3a56149feebf",
@@ -20,20 +20,24 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/webdev.de3c26ad.jpeg"
   },
   {
-    "revision": "ddc1eebd229843d4165e1a1736da237b",
-    "url": "/portfolio/static/media/mts.ddc1eebd.jpg"
-  },
-  {
-    "revision": "70086aefc144ef041ec4b6668b02676e",
-    "url": "/portfolio/static/media/tutor.70086aef.jpg"
-  },
-  {
     "revision": "07dd76631c1c32b8667edf88ab347391",
     "url": "/portfolio/static/media/realtor.07dd7663.jpeg"
   },
   {
     "revision": "809ebbbffdb918545360fa3145e78558",
     "url": "/portfolio/static/media/elections.809ebbbf.jpg"
+  },
+  {
+    "revision": "70086aefc144ef041ec4b6668b02676e",
+    "url": "/portfolio/static/media/tutor.70086aef.jpg"
+  },
+  {
+    "revision": "1aa0d5570fe44e8f692271e14d721ba3",
+    "url": "/portfolio/static/media/pyaterochka.1aa0d557.webp"
+  },
+  {
+    "revision": "ddc1eebd229843d4165e1a1736da237b",
+    "url": "/portfolio/static/media/mts.ddc1eebd.jpg"
   },
   {
     "revision": "221145690898f61bb66a40498674b643",
@@ -44,11 +48,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/incity.f256d9f9.jpg"
   },
   {
-    "revision": "1aa0d5570fe44e8f692271e14d721ba3",
-    "url": "/portfolio/static/media/pyaterochka.1aa0d557.webp"
-  },
-  {
-    "revision": "f5b9fa687a15580045cbb4588c431105",
+    "revision": "1999bffca717e5eb2c06f7fe51895438",
     "url": "/portfolio/index.html"
   }
 ];
