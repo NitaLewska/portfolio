@@ -5,14 +5,14 @@ aside {
     justify-content: space-evenly;
 }
 
-aside form {
+aside .menu {
     display: flex;
     flex-direction: column;
     padding-left: 15px;
     padding-top: 40px;
 }
 
-aside label {
+aside .menu a {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -25,20 +25,16 @@ aside label {
     box-shadow: 20px 20px 60px #cecece,
         -20px -20px 60px #ffffff;
     cursor: pointer;
+    text-decoration: none;
+    color: black;
+    margin: 15px 0;
 }
 
-aside label:hover {
+aside a:hover {
     background: linear-gradient(145deg, #dadada, #ffffff);
     box-shadow: 20px 20px 60px #cecece,
         -20px -20px 60px #ffffff;
 }
-
-aside input {
-    visibility: hidden;
-
-}
-
-
 
 .links {
     display: flex;
@@ -78,23 +74,24 @@ aside input {
         width: 90vw;
     }
 
-    aside form {
+    aside .menu {
         padding-top: 0px;
         padding-left: 0;
         flex-direction: row;
         height: auto;
         width: 100%;
-
         justify-content: center;
     }
 
-    aside label {
+    aside .menu a {
         width: auto;
         height: 40px;
         padding: 10px;
         position: relative;
         top: -20px;
         margin-bottom: -10px;
+        margin-left: 1px;
+        margin-right: 1px;
     }
 
     .links {
