@@ -12,7 +12,7 @@ export default function Portfolio() {
     return (
         <div className="portfolio_container">
             <details className="portfolio_menu_item" open>
-                <summary>Best of 2022</summary>
+                <summary>Best Works</summary>
                 <div className="portfolio_category_container">
                     {cardsBest}
                 </div>
