@@ -122,7 +122,7 @@
     {
         name:"Meet Landing page",
         URL:"../portfolio/frontendmentor/meet-landing-page/index.html",
-        thumbnail:"../portfolio/frontendmentor/thumbnails/meet-landing-page.png",
+        thumbnail:"../portfolio/frontendmentor/thumbnails/meet-landing-page.jpg",
         frontendmentor:true,
         freelance:false,
         difficulty: "newbie",
@@ -200,6 +200,18 @@
         difficulty: "",
         favourite: true,
         pet: true,
+        langs: "HTML/CSS/JS",
+        description:""
+    },    
+    {
+        name:"News Homepage",
+        URL:"https://nitalewska.github.io/news-homepage/",
+        thumbnail:"../portfolio/frontendmentor/thumbnails/news-homepage.jpg",
+        frontendmentor:true,
+        freelance:false,
+        difficulty: "junior",
+        favourite: true,
+        pet: false,
         langs: "HTML/CSS/JS",
         description:""
     }
