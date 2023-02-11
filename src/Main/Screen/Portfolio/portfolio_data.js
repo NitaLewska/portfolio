@@ -193,7 +193,7 @@
     },
     {
         name:"JS Calculator",
-        URL:"../portfolio/frontendmentor/calc_js/index.html",
+        URL:"https://nitalewska.github.io/calc_js_basics/",
         thumbnail:"../portfolio/frontendmentor/thumbnails/calc-js.jpg",
         frontendmentor:false,
         freelance:false,
