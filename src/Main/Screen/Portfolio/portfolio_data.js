@@ -214,6 +214,18 @@
         pet: false,
         langs: "HTML/CSS/JS",
         description:""
+    },    
+    {
+        name:"Advice generator app",
+        URL:"https://nitalewska.github.io/Advice-generator-app/",
+        thumbnail:"../portfolio/frontendmentor/thumbnails/Advice-generator-app.jpg",
+        frontendmentor:true,
+        freelance:false,
+        difficulty: "junior",
+        favourite: true,
+        pet: false,
+        langs: "HTML/CSS/JS/API",
+        description:""
     }
 ]
 

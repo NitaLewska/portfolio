@@ -122,6 +122,10 @@
     font-weight: 600;
 }
 
+#codewars_badge {
+    margin-top: 20px;
+}
+
 @media (max-width: 1000px) {
     .about_hobbies_container img {
         width: 80px;
@@ -143,5 +147,10 @@
     }
     .about_heading{
         grid-column: 1/2;
+    }
+
+    #codewars_link {
+        display: flex;
+        align-items: center;
     }
 }

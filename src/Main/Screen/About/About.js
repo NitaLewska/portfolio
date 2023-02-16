@@ -31,6 +31,9 @@ export default function About() {
                     <p>
                         <span>Twitter:</span> <a href="https://twitter.com/nita_lewska" target="_blank" rel="noopener noreferrer"> @nita_lewska</a>
                     </p>
+                    <a href="https://www.codewars.com/users/NitaLewska/" target="_blank" rel="noopener noreferrer" id="codewars_link">
+                        <img src="https://www.codewars.com/users/NitaLewska/badges/large"  id="codewars_badge"></img>
+                    </a>
                 </div>
                 <img src="./about/selfie.jfif" />
             </article>
