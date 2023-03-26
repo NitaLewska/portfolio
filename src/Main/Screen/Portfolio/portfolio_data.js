@@ -1,8 +1,8 @@
 let data = [
     {
         name: "Four card feature section",
-        URL: "../portfolio/frontendmentor/four-card-feature-section/index.html",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/four-card-feature-section.jpg",
+        URL: "../portfolio/projects/four-card-feature-section/index.html",
+        thumbnail: "../portfolio/projects/thumbnails/four-card-feature-section.jpg",
         frontendmentor: true,
         freelance: false,
         difficulty: "newbie",
@@ -13,8 +13,8 @@ let data = [
     },
     {
         name: "Huddle landing page",
-        URL: "../portfolio/frontendmentor/huddle-landing-page-with-single-introductory-section/index.html",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/huddle-landing-page-with-single-introductory-section.png",
+        URL: "../portfolio/projects/huddle-landing-page-with-single-introductory-section/index.html",
+        thumbnail: "../portfolio/projects/thumbnails/huddle-landing-page-with-single-introductory-section.png",
         frontendmentor: true,
         freelance: false,
         difficulty: "newbie",
@@ -25,8 +25,8 @@ let data = [
     },
     {
         name: "Ping coming soon page",
-        URL: "../portfolio/frontendmentor/ping-single-column-coming-soon-page/index.html",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/ping-single-column-coming-soon-page.png",
+        URL: "../portfolio/projects/ping-single-column-coming-soon-page/index.html",
+        thumbnail: "../portfolio/projects/thumbnails/ping-single-column-coming-soon-page.png",
         frontendmentor: true,
         freelance: false,
         difficulty: "newbie",
@@ -37,8 +37,8 @@ let data = [
     },
     {
         name: "Single price grid component",
-        URL: "../portfolio/frontendmentor/single-price-grid-component/index.html",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/single-price-grid-component.jpg",
+        URL: "../portfolio/projects/single-price-grid-component/index.html",
+        thumbnail: "../portfolio/projects/thumbnails/single-price-grid-component.jpg",
         frontendmentor: true,
         freelance: false,
         difficulty: "newbie",
@@ -49,8 +49,8 @@ let data = [
     },
     {
         name: "Intro component with sign-up form",
-        URL: "../portfolio/frontendmentor/Intro-component-with-sign-up-form/index.html",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/intro-component-with-sign-up-form.png",
+        URL: "../portfolio/projects/Intro-component-with-sign-up-form/index.html",
+        thumbnail: "../portfolio/projects/thumbnails/intro-component-with-sign-up-form.png",
         frontendmentor: true,
         freelance: false,
         difficulty: "newbie",
@@ -61,8 +61,8 @@ let data = [
     },
     {
         name: "Base Apparel coming soon page",
-        URL: "../portfolio/frontendmentor/base-apparel-coming-soon-page/index.html",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/base-apparel-coming-soon.png",
+        URL: "../portfolio/projects/base-apparel-coming-soon-page/index.html",
+        thumbnail: "../portfolio/projects/thumbnails/base-apparel-coming-soon.png",
         frontendmentor: true,
         freelance: false,
         difficulty: "newbie",
@@ -73,8 +73,8 @@ let data = [
     },
     {
         name: "Social proof section",
-        URL: "../portfolio/frontendmentor/social-proof-section/index.html",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/social-proof-section.png",
+        URL: "../portfolio/projects/social-proof-section/index.html",
+        thumbnail: "../portfolio/projects/thumbnails/social-proof-section.png",
         frontendmentor: true,
         freelance: false,
         difficulty: "newbie",
@@ -85,8 +85,8 @@ let data = [
     },
     {
         name: "FAQ accordion card",
-        URL: "../portfolio/frontendmentor/FAQ-accordion-card/index.html",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/FAQ-accordion-card.png",
+        URL: "../portfolio/projects/FAQ-accordion-card/index.html",
+        thumbnail: "../portfolio/projects/thumbnails/FAQ-accordion-card.png",
         frontendmentor: true,
         freelance: false,
         difficulty: "newbie",
@@ -97,8 +97,8 @@ let data = [
     },
     {
         name: "Profile card component",
-        URL: "../portfolio/frontendmentor/profile-card-component/index.html",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/profile-card-component.png",
+        URL: "../portfolio/projects/profile-card-component/index.html",
+        thumbnail: "../portfolio/projects/thumbnails/profile-card-component.png",
         frontendmentor: true,
         freelance: false,
         difficulty: "newbie",
@@ -109,8 +109,8 @@ let data = [
     },
     {
         name: "Preview card component",
-        URL: "../portfolio/frontendmentor/3-column-preview-card-component/index.html",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/3-column-preview-card-component.png",
+        URL: "../portfolio/projects/3-column-preview-card-component/index.html",
+        thumbnail: "../portfolio/projects/thumbnails/3-column-preview-card-component.png",
         frontendmentor: true,
         freelance: false,
         difficulty: "newbie",
@@ -121,8 +121,8 @@ let data = [
     },
     {
         name: "Meet Landing page",
-        URL: "../portfolio/frontendmentor/meet-landing-page/index.html",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/meet-landing-page.jpg",
+        URL: "../portfolio/projects/meet-landing-page/index.html",
+        thumbnail: "../portfolio/projects/thumbnails/meet-landing-page.jpg",
         frontendmentor: true,
         freelance: false,
         difficulty: "newbie",
@@ -134,7 +134,7 @@ let data = [
     {
         name: "CARAT Landing page",
         URL: "https://nitalewska.github.io/Kwork-CARAT/",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/CARAT-landing-page.jpg",
+        thumbnail: "../portfolio/projects/thumbnails/CARAT-landing-page.jpg",
         frontendmentor: false,
         freelance: true,
         difficulty: "",
@@ -146,7 +146,7 @@ let data = [
     {
         name: "Quiz",
         URL: "https://nitalewska.github.io/quiz-react/",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/quiz.jpg",
+        thumbnail: "../portfolio/projects/thumbnails/quiz.jpg",
         frontendmentor: false,
         freelance: false,
         difficulty: "",
@@ -158,7 +158,7 @@ let data = [
     {
         name: "Clipboard Landing page",
         URL: "https://nitalewska.github.io/clipboard-landing-page/",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/clipboard-landing-page.jpg",
+        thumbnail: "../portfolio/projects/thumbnails/clipboard-landing-page.jpg",
         frontendmentor: true,
         freelance: false,
         difficulty: "junior",
@@ -169,8 +169,8 @@ let data = [
     },
     {
         name: "Testimonials Grid Section",
-        URL: "../portfolio/frontendmentor/testimonials-grid-section/index.html",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/testimonials-grid-section.png",
+        URL: "../portfolio/projects/testimonials-grid-section/index.html",
+        thumbnail: "../portfolio/projects/thumbnails/testimonials-grid-section.png",
         frontendmentor: true,
         freelance: false,
         difficulty: "junior",
@@ -181,8 +181,8 @@ let data = [
     },
     {
         name: "3D Artist's Portfolio",
-        URL: "../portfolio/frontendmentor/dzirun_portfolio/index.html",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/dzirun_portfolio.jpg",
+        URL: "../portfolio/projects/dzirun_portfolio/index.html",
+        thumbnail: "../portfolio/projects/thumbnails/dzirun_portfolio.jpg",
         frontendmentor: false,
         freelance: false,
         difficulty: "",
@@ -194,7 +194,7 @@ let data = [
     {
         name: "JS Calculator",
         URL: "https://nitalewska.github.io/calc_js_basics/",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/calc-js.jpg",
+        thumbnail: "../portfolio/projects/thumbnails/calc-js.jpg",
         frontendmentor: false,
         freelance: false,
         difficulty: "",
@@ -206,7 +206,7 @@ let data = [
     {
         name: "News Homepage",
         URL: "https://nitalewska.github.io/news-homepage/",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/news-homepage.jpg",
+        thumbnail: "../portfolio/projects/thumbnails/news-homepage.jpg",
         frontendmentor: true,
         freelance: false,
         difficulty: "junior",
@@ -218,7 +218,7 @@ let data = [
     {
         name: "Advice generator app",
         URL: "https://nitalewska.github.io/Advice-generator-app/",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/Advice-generator-app.jpg",
+        thumbnail: "../portfolio/projects/thumbnails/Advice-generator-app.jpg",
         frontendmentor: true,
         freelance: false,
         difficulty: "junior",
@@ -230,7 +230,7 @@ let data = [
     {
         name: "Tenzies",
         URL: "https://nitalewska.github.io/tenzies-game-react/",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/tenzies-game-react.jpg",
+        thumbnail: "../portfolio/projects/thumbnails/tenzies-game-react.jpg",
         frontendmentor: false,
         freelance: false,
         difficulty: "",
@@ -242,13 +242,25 @@ let data = [
     {
         name: "Health Test",
         URL: "https://nitalewska.github.io/health_test/",
-        thumbnail: "../portfolio/frontendmentor/thumbnails/health_test.jpg",
+        thumbnail: "../portfolio/projects/thumbnails/health_test.jpg",
         frontendmentor: false,
         freelance: false,
         difficulty: "",
         favourite: false,
         pet: true,
         langs: "HTML/CSS/JS/ReactJS",
+        description: ""
+    },
+    {
+        name: "Yelp Camp",
+        URL: "https://yelpcamp-production-a0c9.up.railway.app",
+        thumbnail: "../portfolio/projects/thumbnails/yelp-camp.jpg",
+        frontendmentor: false,
+        freelance: false,
+        difficulty: "",
+        favourite: true,
+        pet: true,
+        langs: "ExpressJS/MongoDB",
         description: ""
     }
 ]
