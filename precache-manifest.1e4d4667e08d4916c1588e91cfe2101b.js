@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "efdfc5021b97bc9b39da",
-    "url": "/portfolio/static/css/main.a65562cd.chunk.css"
+    "revision": "da9d40fbd23544c28be4",
+    "url": "/portfolio/static/css/main.574b1f32.chunk.css"
   },
   {
-    "revision": "efdfc5021b97bc9b39da",
-    "url": "/portfolio/static/js/main.efdfc502.chunk.js"
+    "revision": "da9d40fbd23544c28be4",
+    "url": "/portfolio/static/js/main.da9d40fb.chunk.js"
   },
   {
     "revision": "816170884b3d1c890c87",
@@ -16,6 +16,10 @@ self.__precacheManifest = [
     "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
   },
   {
+    "revision": "e43131c389a6999849d3ca02509f7751",
+    "url": "/portfolio/static/media/tutor.e43131c3.jpg"
+  },
+  {
     "revision": "fd1d577560eb9cc3e7cf48e42a216cd1",
     "url": "/portfolio/static/media/webdev.fd1d5775.jpeg"
   },
@@ -24,20 +28,16 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/incity.05940580.jpg"
   },
   {
-    "revision": "e43131c389a6999849d3ca02509f7751",
-    "url": "/portfolio/static/media/tutor.e43131c3.jpg"
-  },
-  {
-    "revision": "f4a506655e6e2b295f634cf0631f012d",
-    "url": "/portfolio/static/media/mts.f4a50665.jpg"
+    "revision": "5cb4175fa904aa97d05434ae1d66c871",
+    "url": "/portfolio/static/media/elections.5cb4175f.jpg"
   },
   {
     "revision": "23a31e76b62e49e59f7bf50a65361675",
     "url": "/portfolio/static/media/realtor.23a31e76.jpeg"
   },
   {
-    "revision": "5cb4175fa904aa97d05434ae1d66c871",
-    "url": "/portfolio/static/media/elections.5cb4175f.jpg"
+    "revision": "f4a506655e6e2b295f634cf0631f012d",
+    "url": "/portfolio/static/media/mts.f4a50665.jpg"
   },
   {
     "revision": "c6f818f355b2a884da1b25231e84c993",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/pyaterochka.1aa0d557.webp"
   },
   {
-    "revision": "9b526dc34db6f3729e214a5079b31392",
+    "revision": "9ec6ee3ab7eea6f769bb94486aa142da",
     "url": "/portfolio/index.html"
   }
 ];
