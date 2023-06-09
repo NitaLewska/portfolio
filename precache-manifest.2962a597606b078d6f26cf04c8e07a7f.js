@@ -1,31 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "da9d40fbd23544c28be4",
-    "url": "/portfolio/static/css/main.574b1f32.chunk.css"
+    "revision": "b4f08cdac241fe4ea5e2",
+    "url": "/portfolio/static/css/main.be4ba3df.chunk.css"
   },
   {
-    "revision": "da9d40fbd23544c28be4",
-    "url": "/portfolio/static/js/main.da9d40fb.chunk.js"
+    "revision": "b4f08cdac241fe4ea5e2",
+    "url": "/portfolio/static/js/main.b4f08cda.chunk.js"
   },
   {
-    "revision": "816170884b3d1c890c87",
-    "url": "/portfolio/static/js/1.81617088.chunk.js"
+    "revision": "47f293b54fe98f413a4d",
+    "url": "/portfolio/static/js/1.47f293b5.chunk.js"
   },
   {
     "revision": "ee2a100325fd284f0097",
     "url": "/portfolio/static/js/runtime~main.ee2a1003.js"
-  },
-  {
-    "revision": "e43131c389a6999849d3ca02509f7751",
-    "url": "/portfolio/static/media/tutor.e43131c3.jpg"
-  },
-  {
-    "revision": "fd1d577560eb9cc3e7cf48e42a216cd1",
-    "url": "/portfolio/static/media/webdev.fd1d5775.jpeg"
-  },
-  {
-    "revision": "0594058000b9188f970dfac4720436c7",
-    "url": "/portfolio/static/media/incity.05940580.jpg"
   },
   {
     "revision": "5cb4175fa904aa97d05434ae1d66c871",
@@ -36,6 +24,14 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/realtor.23a31e76.jpeg"
   },
   {
+    "revision": "fd1d577560eb9cc3e7cf48e42a216cd1",
+    "url": "/portfolio/static/media/webdev.fd1d5775.jpeg"
+  },
+  {
+    "revision": "0594058000b9188f970dfac4720436c7",
+    "url": "/portfolio/static/media/incity.05940580.jpg"
+  },
+  {
     "revision": "f4a506655e6e2b295f634cf0631f012d",
     "url": "/portfolio/static/media/mts.f4a50665.jpg"
   },
@@ -44,11 +40,15 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/physics.c6f818f3.jpg"
   },
   {
+    "revision": "e43131c389a6999849d3ca02509f7751",
+    "url": "/portfolio/static/media/tutor.e43131c3.jpg"
+  },
+  {
     "revision": "1aa0d5570fe44e8f692271e14d721ba3",
     "url": "/portfolio/static/media/pyaterochka.1aa0d557.webp"
   },
   {
-    "revision": "9ec6ee3ab7eea6f769bb94486aa142da",
+    "revision": "1db6eaa689e6955287ab0666c2bebb65",
     "url": "/portfolio/index.html"
   }
 ];
