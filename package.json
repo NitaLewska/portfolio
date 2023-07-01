@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://nitalewska.github.io/portfolio",
+  "homepage": "https://nitalewska.github.io",
   "private": true,
   "dependencies": {
     "@coreui/icons": "^2.1.0",

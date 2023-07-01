@@ -112,7 +112,7 @@ export default function About() {
                     <img src="./about/reading.png" alt="" title="Reading fantasy books"/>
                     <img src="./about/game-console.png" alt="" title="Playing games, PC and 3DS"/>
                     <img src="./about/gym.png" alt="" title="Threadmill, elliptical and etc twice a week"/>
-                    <img src="./about/mushrooms.png" alt="" title="Mushroom hunting!!!"/>
+                    <img src="./about/forest.png" alt="" title="Hiking and mushroom hunting!"/>
                     <img src="./about/chess.png" alt="" title="Not the best player, but I enjoy chess a lot"/>
                     <img src="./about/role-playing.png" alt="" title="Critical 20"/>
                 </div>
