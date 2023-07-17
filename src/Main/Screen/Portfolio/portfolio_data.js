@@ -12,6 +12,18 @@ let data = [
         description: ""
     },
     {
+        name: "Space Tourism multipage website",
+        URL: "https://nitalewska.github.io/space-tourism-multi-page-website/index.html",
+        thumbnail: "../projects/thumbnails/space-tourism-multi-page-website.jpg",
+        frontendmentor: true,
+        freelance: false,
+        difficulty: "intermediate",
+        favourite: true,
+        pet: false,
+        langs: "HTML/CSS/JS",
+        description: ""
+    },
+    {
         name: "Huddle landing page",
         URL: "../projects/huddle-landing-page-with-single-introductory-section/index.html",
         thumbnail: "../projects/thumbnails/huddle-landing-page-with-single-introductory-section.png",
@@ -165,6 +177,18 @@ let data = [
         favourite: true,
         pet: false,
         langs: "HTML/CSS",
+        description: ""
+    },
+    {
+        name: "Sunnyside agency Landing page",
+        URL: "https://nitalewska.github.io/Sunnyside-agency-landing-page/",
+        thumbnail: "../projects/thumbnails/sunnyside-agency-landing-page.jpg",
+        frontendmentor: true,
+        freelance: false,
+        difficulty: "junior",
+        favourite: true,
+        pet: false,
+        langs: "HTML/CSS/JS",
         description: ""
     },
     {
