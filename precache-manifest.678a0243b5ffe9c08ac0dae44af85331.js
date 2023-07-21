@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "7df73c9bb7fdbdf375c1",
+    "revision": "580a52bf5c163b23b389",
     "url": "/static/css/main.d75c8208.chunk.css"
   },
   {
-    "revision": "7df73c9bb7fdbdf375c1",
-    "url": "/static/js/main.7df73c9b.chunk.js"
+    "revision": "580a52bf5c163b23b389",
+    "url": "/static/js/main.580a52bf.chunk.js"
   },
   {
     "revision": "75f84090a6ac3cb98560",
@@ -16,8 +16,12 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "5cb4175fa904aa97d05434ae1d66c871",
-    "url": "/static/media/elections.5cb4175f.jpg"
+    "revision": "1aa0d5570fe44e8f692271e14d721ba3",
+    "url": "/static/media/pyaterochka.1aa0d557.webp"
+  },
+  {
+    "revision": "23a31e76b62e49e59f7bf50a65361675",
+    "url": "/static/media/realtor.23a31e76.jpeg"
   },
   {
     "revision": "fd1d577560eb9cc3e7cf48e42a216cd1",
@@ -28,6 +32,10 @@ self.__precacheManifest = [
     "url": "/static/media/tutor.e43131c3.jpg"
   },
   {
+    "revision": "5cb4175fa904aa97d05434ae1d66c871",
+    "url": "/static/media/elections.5cb4175f.jpg"
+  },
+  {
     "revision": "0594058000b9188f970dfac4720436c7",
     "url": "/static/media/incity.05940580.jpg"
   },
@@ -36,19 +44,11 @@ self.__precacheManifest = [
     "url": "/static/media/mts.f4a50665.jpg"
   },
   {
-    "revision": "23a31e76b62e49e59f7bf50a65361675",
-    "url": "/static/media/realtor.23a31e76.jpeg"
-  },
-  {
-    "revision": "1aa0d5570fe44e8f692271e14d721ba3",
-    "url": "/static/media/pyaterochka.1aa0d557.webp"
-  },
-  {
     "revision": "c6f818f355b2a884da1b25231e84c993",
     "url": "/static/media/physics.c6f818f3.jpg"
   },
   {
-    "revision": "02d241c14db509451e132cf132f83829",
+    "revision": "1c9fd327d87a737ff4ae0024a13622a8",
     "url": "/index.html"
   }
 ];

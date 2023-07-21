@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- displays site properly based on user's device -->
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@600;700&family=Lexend+Deca:wght@200;400&display=swap"
+    rel="stylesheet">
+  <title>Frontend Mentor | Stats preview card component</title>
+</head>
+
+<body>
+  <main>
+    <section class="cards__container">
+      <article class="card">
+        <picture class="card__image">
+          <source media="(max-width: 1167px)" srcset="./images/image-header-mobile.jpg">
+          <img src="./images/image-header-desktop.jpg" alt="">
+        </picture>
+        <h4 class="card__header">Get <span class="card__header__span">insights</span> that help your business grow.</h4>
+        <p class="card__description">Discover the benefits of data analytics and make better decisions regarding
+          revenue, customer
+          experience, and overall efficiency.</p>
+        <div class="card__stats">
+          <p class="card__stats-unit"><span class="card__stats-unit__number">10k+</span> companies</p>
+          <p class="card__stats-unit"><span class="card__stats-unit__number">314</span> templates</p>
+          <p class="card__stats-unit"><span class="card__stats-unit__number">12M+</span> queries</p>
+        </div>
+      </article>
+    </section>
+  </main>
+</body>
+
+</html>
