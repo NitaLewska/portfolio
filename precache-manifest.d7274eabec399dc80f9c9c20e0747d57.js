@@ -16,20 +16,16 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
+    "revision": "fd1d577560eb9cc3e7cf48e42a216cd1",
+    "url": "/static/media/webdev.fd1d5775.jpeg"
+  },
+  {
     "revision": "5cb4175fa904aa97d05434ae1d66c871",
     "url": "/static/media/elections.5cb4175f.jpg"
   },
   {
     "revision": "e43131c389a6999849d3ca02509f7751",
     "url": "/static/media/tutor.e43131c3.jpg"
-  },
-  {
-    "revision": "1aa0d5570fe44e8f692271e14d721ba3",
-    "url": "/static/media/pyaterochka.1aa0d557.webp"
-  },
-  {
-    "revision": "fd1d577560eb9cc3e7cf48e42a216cd1",
-    "url": "/static/media/webdev.fd1d5775.jpeg"
   },
   {
     "revision": "0594058000b9188f970dfac4720436c7",
@@ -46,6 +42,10 @@ self.__precacheManifest = [
   {
     "revision": "f4a506655e6e2b295f634cf0631f012d",
     "url": "/static/media/mts.f4a50665.jpg"
+  },
+  {
+    "revision": "1aa0d5570fe44e8f692271e14d721ba3",
+    "url": "/static/media/pyaterochka.1aa0d557.webp"
   },
   {
     "revision": "8a7d387ff9186442b0575508a3fd1db1",
